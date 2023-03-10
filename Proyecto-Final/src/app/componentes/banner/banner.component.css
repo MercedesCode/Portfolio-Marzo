@@ -1,0 +1,9 @@
+ app-nombre {
+    float: left;
+    margin-right: 10px;
+    margin-top: 15px;
+}
+
+app-foto-perfil {
+    float: right;
+}
